@@ -30,7 +30,7 @@ public class Main {
 
 		practice1.display();
 		
-		System.out.println("leewoomi");
+		
 
 	}
 
