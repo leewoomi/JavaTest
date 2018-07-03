@@ -29,6 +29,8 @@ public class Main {
 		System.out.println(strr);
 
 		practice1.display();
+		
+		System.out.println("leewoomi");
 
 	}
 
